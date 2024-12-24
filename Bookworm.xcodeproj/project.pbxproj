@@ -15,6 +15,7 @@
 		5483B3362D19D83A00A2D245 /* AddBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5483B3352D19D83A00A2D245 /* AddBookView.swift */; };
 		5483B3382D19E3A100A2D245 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5483B3372D19E3A100A2D245 /* RatingView.swift */; };
 		5483B33A2D19E95700A2D245 /* EmojiRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5483B3392D19E95700A2D245 /* EmojiRatingView.swift */; };
+		5483B33C2D1AD3CD00A2D245 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5483B33B2D1AD3CD00A2D245 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		5483B3352D19D83A00A2D245 /* AddBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBookView.swift; sourceTree = "<group>"; };
 		5483B3372D19E3A100A2D245 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
 		5483B3392D19E95700A2D245 /* EmojiRatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiRatingView.swift; sourceTree = "<group>"; };
+		5483B33B2D1AD3CD00A2D245 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				5483B3232D19D65600A2D245 /* BookwormApp.swift */,
 				5483B3352D19D83A00A2D245 /* AddBookView.swift */,
+				5483B33B2D1AD3CD00A2D245 /* DetailView.swift */,
 				5483B3372D19E3A100A2D245 /* RatingView.swift */,
 				5483B3392D19E95700A2D245 /* EmojiRatingView.swift */,
 				5483B3252D19D65600A2D245 /* ContentView.swift */,
@@ -152,6 +155,7 @@
 				5483B3262D19D65600A2D245 /* ContentView.swift in Sources */,
 				5483B3242D19D65600A2D245 /* BookwormApp.swift in Sources */,
 				5483B3322D19D6BA00A2D245 /* Book.swift in Sources */,
+				5483B33C2D1AD3CD00A2D245 /* DetailView.swift in Sources */,
 				5483B3382D19E3A100A2D245 /* RatingView.swift in Sources */,
 				5483B33A2D19E95700A2D245 /* EmojiRatingView.swift in Sources */,
 				5483B3362D19D83A00A2D245 /* AddBookView.swift in Sources */,
